@@ -1,1 +1,1 @@
-This is my first project in mac.
+This is a project for managing products. It is a single page application built using Angular Framework.
